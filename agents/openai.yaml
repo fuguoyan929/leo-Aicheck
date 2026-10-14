@@ -1,0 +1,6 @@
+interface:
+  display_name: "leo-Aicheck"
+  short_description: "经济学论文去模板化与清晰表达审校，保留术语、事实和证据强度"
+  default_prompt: "请使用 $leo-aicheck 审校这篇经济学论文，逐处指出模板化、重复和防御性表达，给出清晰平实的修改稿，并核对证据强度。"
+policy:
+  allow_implicit_invocation: true
